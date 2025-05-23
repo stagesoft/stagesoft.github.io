@@ -5,9 +5,9 @@
 
 ## About
 
-**FormitGo** and the **cuems** suite is a new open source software project from [Stagelab](https://www.stagelab.coop) and [bTactic](https://www.btactic.com).
+**FormitGo** and the **cuems** suite is a new open source software project from [Stagelab](https://www.stagelab.coop).
 
-![Stagelab logo](https://stagelab.coop/wp-content/uploads/2021/05/stagelabcoop_head.png) ![bTactic logo](https://www.btactic.com/wp-content/uploads/2018/10/logo-btactic.png)
+![Stagelab logo](https://stagelab.coop/wp-content/uploads/2021/05/stagelabcoop_head.png)
 
 **cuems** suite will not only manage cues but also network connected external devices.
 
@@ -20,7 +20,7 @@ cuems will try to reuse and improve other open source projects such as:
 cuems will generate new projects from scratch like:
 
 * [cuems-engine](https://github.com/stagesoft/cuems-engine)
-* [cuems_editor](https://github.com/stagesoft/cuems_editor)
+* [cuems-editor](https://github.com/stagesoft/cuems-editor)
 * [cuems-utils](https://github.com/stagesoft/cuems-utils)
 * [libmtcmaster](https://github.com/stagesoft/libmtcmaster)
 * [cuems-audioplayer](https://github.com/stagesoft/cuems-audioplayer)
@@ -100,3 +100,7 @@ This project is promoted by:
 This project is funded by:
 
 ![funded_by_logos](https://stagelab.coop/wp-content/uploads/2021/05/logo_ministerio.png)
+
+This project had the initial collaboration of[bTactic](https://www.btactic.com):
+
+![bTactic logo](https://www.btactic.com/wp-content/uploads/2018/10/logo-btactic.png)
