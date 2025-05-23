@@ -33,9 +33,9 @@ All technical documentation is available at it's corresponding GitHub Pages site
 
 ## Stagesoft packages
 
-You can find our newest repositories at: [Stagesoft org page](https://github.com/stagesoft).
+You can find our repositories at [Stagesoft Github page](https://github.com/stagesoft).
 
-And our packages repository at: [Stagesoft package repo](https://repo.stagelab.coop)
+And our packages repository at [Stagesoft package repository](https://repo.stagelab.coop)
 
 (debian 10 packages, amd64, dbgsym and source)
 
@@ -79,7 +79,7 @@ ____
 
 ## Packages
 
-For a complete list of software under development by Stagelab, see [Stagesoft org page](https://github.com/stagesoft).
+For a complete list of software under development by Stagelab, see [Stagesoft GitHub page](https://github.com/stagesoft).
 
 list of packages currently on the repository:
 
@@ -101,6 +101,6 @@ This project is funded by:
 
 ![funded_by_logos](https://stagelab.coop/wp-content/uploads/2021/05/logo_ministerio.png)
 
-This project had the initial collaboration of[bTactic](https://www.btactic.com):
+This project had the initial collaboration of [bTactic](https://www.btactic.com):
 
 ![bTactic logo](https://www.btactic.com/wp-content/uploads/2018/10/logo-btactic.png)
