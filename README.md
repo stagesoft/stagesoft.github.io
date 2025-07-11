@@ -1,13 +1,15 @@
 # Stagesoft project FormitGo
 
-![formitgo-img](https://stagelab.coop/wp-content/uploads/2021/05/stagelab_workingnodes_01.png)
+<!-- ![formitgo-img](img/formitgo.jpg) -->
+
+<img src="img/formitgo.jpg" height="400">
 
 
 ## About
 
 **FormitGo** and the **cuems** suite is a new open source software project from [Stagelab](https://www.stagelab.coop).
 
-![Stagelab logo](https://stagelab.coop/wp-content/uploads/2021/05/stagelabcoop_head.png)
+![Stagelab logo](img/original_fons_transparent.png)
 
 **cuems** suite will not only manage cues but also network connected external devices.
 
@@ -95,11 +97,13 @@ list of packages currently on the repository:
 
 This project is promoted by:
 
-![promoted_by_logos](https://stagelab.coop/wp-content/uploads/2021/06/logo_economiasocial_.png)
+![promoted_by_gencat](img/generalitat.svg)
+
+![promoted_by_ess](img/economiasocial.svg)
 
 This project is funded by:
 
-![funded_by_logos](https://stagelab.coop/wp-content/uploads/2021/05/logo_ministerio.png)
+![funded_by_ministerio](img/ministerio.svg)
 
 This project had the initial collaboration of [bTactic](https://www.btactic.com):
 
