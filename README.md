@@ -2,14 +2,14 @@
 
 <!-- ![formitgo-img](img/formitgo.jpg) -->
 
-<img src="img/formitgo.jpg" height="400">
+<img src="img/formitgo.jpg" height="200">
 
 
 ## About
 
 **FormitGo** and the **cuems** suite is a new open source software project from [Stagelab](https://www.stagelab.coop).
 
-![Stagelab logo](img/original_fons_transparent.png)
+<img src="img/original_fons_transparent.png" height=100>
 
 **cuems** suite will not only manage cues but also network connected external devices.
 
