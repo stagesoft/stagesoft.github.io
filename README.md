@@ -92,7 +92,15 @@ list of packages currently on the repository:
 * jackd2
 * libossia
 * cmake
- 
+
+## Forum for discussion
+
+This project has two forums for discussion and any questions or comments that users may have:
+
+<a href="https://discord.gg/VfDjFDSnGW"><img src="img/discord_purple.svg" height=30></a>
+
+<a href="https://github.com/stagesoft/FormitGo/discussions"><img src="img/github_dark.svg" style="background-color:#cdcdcd; height:35; padding:3px; border-radius:5px;"></a>
+
 ## Funding
 
 This project is promoted by:
